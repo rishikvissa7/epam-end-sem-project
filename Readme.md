@@ -1,1 +1,1 @@
-# Deploying a Static Website to AWS S3 using Jenkins or Github Actions
+Static Website Hosting in AWS S3 using Jenkins , GitHub and Terraform
